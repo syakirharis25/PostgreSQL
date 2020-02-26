@@ -22,7 +22,9 @@ The project continues to make releases available under its free and open-source 
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-PostgresQL official website : https://www.postgresql.org<br />
+PostgreSQL official website : https://www.postgresql.org <br />
+
+PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
