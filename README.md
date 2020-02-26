@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# PostgresQL
-=======
 # PostgreSQL
->>>>>>> 227fd0418b93c8f7d3c6134c2c26ec899b1be830
 My works related to PostgreSQL, an open-source relational database management system (RDBMS) emphasizing extensibility and technical standards compliance.
 
 ## Table of Contents
@@ -13,11 +9,7 @@ My works related to PostgreSQL, an open-source relational database management sy
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<<<<<<< HEAD
-<img src="graphql.png" height="150"> 
-=======
 <img src="postgresql.png" height="150"> 
->>>>>>> 227fd0418b93c8f7d3c6134c2c26ec899b1be830
 PostgreSQL, also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and technical standards compliance. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users. It is the default database for macOS Server, and is also available for Linux, FreeBSD, OpenBSD, and Windows.
 <br /> <br />
 PostgreSQL features transactions with Atomicity, Consistency, Isolation, Durability (ACID) properties, automatically updatable views, materialized views, triggers, foreign keys, and stored procedures. PostgreSQL is developed by the PostgreSQL Global Development Group, a diverse group of many companies and individual contributors.
@@ -36,13 +28,8 @@ PostgresQL official website : https://www.postgresql.org<br />
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
-<<<<<<< HEAD
-$ git clone https://github.com/syakirharis25/PostgresQL.git
-$ cd PostgresQL/
-=======
 $ git clone https://github.com/syakirharis25/PostgreSQL.git
 $ cd PostgreSQL/
->>>>>>> 227fd0418b93c8f7d3c6134c2c26ec899b1be830
 $ git remote -v
 $ git status
 ```
@@ -50,14 +37,10 @@ $ git status
 <a name="calculation"></a>
 ## 4. GitHub repository calculation.
 ```
-<<<<<<< HEAD
-draft
-=======
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 Markdown                         1              5              0             37
 -------------------------------------------------------------------------------
->>>>>>> 227fd0418b93c8f7d3c6134c2c26ec899b1be830
 ```
 Refer to : https://github.com/syakirharis25/cloc
