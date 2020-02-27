@@ -4,8 +4,9 @@ My works related to PostgreSQL, an open-source relational database management sy
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [pgAdmin.](#pgadmin)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -35,10 +36,19 @@ pgAdmin : https://www.pgadmin.org <br />
 **_PostgreSQL questions and answers by Stack Overflow_**
 pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
 
+**_PostgreSQL related articles_**
+pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
+
 PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
+
+<a name="pgadmin"></a>
+## 3. pgAdmin.
+pgAdmin is a design and management interface for the PostgreSQL database (open source object-relational database system). It is an open source administration and development platform. For database administrators, pgAdmin provides a graphical interface to all the PostgreSQL features. The program supports multiple versions of the PostgreSQL database.
+
+By Default pgAdmin in Microsoft Windows environment will try to find and use the previous data located in `C:\Users\username\AppData\Roaming\pgAdmin`, if the pgAdmin encounter any problem, try to clear all the data in `C:\Users\username\AppData\Roaming\pgAdmin` and then start again the pgAdmin with administrator access.
  
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/PostgreSQL.git
@@ -48,7 +58,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
