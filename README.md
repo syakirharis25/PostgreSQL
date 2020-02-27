@@ -25,6 +25,9 @@ The project continues to make releases available under its free and open-source 
 PostgreSQL official website : https://www.postgresql.org <br />
 PostgreSQL official download page : https://www.postgresql.org/download/ <br />
 
+**_PostgreSQL related technologies_**
+DataGrip : https://www.jetbrains.com/datagrip/ <br />
+
 PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
  
 <a name="github"></a>
