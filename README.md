@@ -25,9 +25,15 @@ The project continues to make releases available under its free and open-source 
 PostgreSQL official website : https://www.postgresql.org <br />
 PostgreSQL official download page : https://www.postgresql.org/download/ <br />
 
+**_PostgreSQL questions and answers_**
+Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
+
 **_PostgreSQL related technologies_**
 DataGrip : https://www.jetbrains.com/datagrip/ <br />
 pgAdmin : https://www.pgadmin.org <br />
+
+**_PostgreSQL questions and answers by Stack Overflow_**
+pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
 
 PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
  
