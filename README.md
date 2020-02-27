@@ -51,7 +51,7 @@ By Default pgAdmin in Microsoft Windows environment will try to find and use the
 
 <a name="windowscommand"></a>
 ## 4. Running PostgreSQL on Windows PowerShell.
-To run PosgreSQL on Microsoft Windows PowerShell, press **[ ⊞ ]** + **[ X ]**, **[ A ]**, **[ ← ]**, **[ Enter ]**, the Windows PowerShell will appear on your screen, then change into your working directory by using the **cd** command, `cd C:\Users\username\Desktop\PostgreSQL` and press **[ Enter ]**. After that type `psql -U postgres` and press **[ Enter ]** on your keyboard. When it ask the question `Password for user postgres:`, just type your password when you first installed the PostgreSQL on your system and then press **[ Enter ]**, this will open the command line version of PostgreSQL on Windows PowerShell.
+To run PosgreSQL on Microsoft Windows PowerShell, press **[ ⊞ ]** + **[ X ]**, **[ A ]**, **[ ← ]**, **[ Enter ]**, the Windows PowerShell will appear on your screen, then change into your working directory by using the **cd** command, `cd C:\Users\username\Desktop\PostgreSQL` and press **[ Enter ]**. After that type `psql -U postgres -h localhost` and press **[ Enter ]** on your keyboard. When it ask the question `Password for user postgres:`, just type your password when you first installed the PostgreSQL on your system and then press **[ Enter ]**, this will open the command line version of PostgreSQL on Windows PowerShell.
  
 <a name="github"></a>
 ## 5 GitHub notes.
