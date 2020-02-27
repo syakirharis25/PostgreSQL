@@ -36,6 +36,7 @@ pgAdmin : https://www.pgadmin.org <br />
 
 **_PostgreSQL questions and answers by Stack Overflow_**
 pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
+keystroke to clear screen in psql? by Stack Overflow : https://stackoverflow.com/questions/26065426/keystroke-to-clear-screen-in-psql <br />
 
 **_PostgreSQL related articles_**
 pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
