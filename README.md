@@ -27,6 +27,7 @@ PostgreSQL official download page : https://www.postgresql.org/download/ <br />
 
 **_PostgreSQL related technologies_**
 DataGrip : https://www.jetbrains.com/datagrip/ <br />
+pgAdmin : https://www.pgadmin.org <br />
 
 PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
  
