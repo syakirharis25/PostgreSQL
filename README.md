@@ -30,6 +30,7 @@ PostgreSQL official documentation :https://www.postgresql.org/docs/ <br />
 
 **_PostgreSQL documentation by postgresql.org_** <br />
 Chapter 8. Data Types by postgresql.org : https://www.postgresql.org/docs/9.5/datatype.html <br />
+DROP TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-droptable.html <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
@@ -43,7 +44,7 @@ Mockaroo data generator : https://mockaroo.com <br />
 pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
 keystroke to clear screen in psql? by Stack Overflow : https://stackoverflow.com/questions/26065426/keystroke-to-clear-screen-in-psql <br />
 
-**_PostgreSQL related articles_**
+**_PostgreSQL related articles_** <br />
 pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
 
 PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
