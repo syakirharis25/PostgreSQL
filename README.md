@@ -37,6 +37,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
 **_PostgreSQL related technologies_** <br />
 DataGrip : https://www.jetbrains.com/datagrip/ <br />
 pgAdmin : https://www.pgadmin.org <br />
+Mockaroo data tester : https://mockaroo.com <br />
 
 **_PostgreSQL questions and answers by Stack Overflow_** <br />
 pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
