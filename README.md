@@ -32,6 +32,7 @@ PostgreSQL official documentation :https://www.postgresql.org/docs/ <br />
 Chapter 8. Data Types by postgresql.org : https://www.postgresql.org/docs/9.5/datatype.html <br />
 DROP TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-droptable.html <br />
 DELETE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-delete.html <br />
+SELECT by postgresql.org : https://www.postgresql.org/docs/8.2/sql-select.html <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
