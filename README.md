@@ -23,9 +23,13 @@ In 1996, the project was renamed to PostgreSQL to reflect its support for SQL. T
 The project continues to make releases available under its free and open-source software PostgreSQL License. Code comes from contributions from proprietary vendors, support companies, and open-source programmers.
 
 <a name="references"></a>
-## 2. Official references websites. <br />
+## 2. Official references websites.
 PostgreSQL official website : https://www.postgresql.org <br />
 PostgreSQL official download page : https://www.postgresql.org/download/ <br />
+PostgreSQL official documentation :https://www.postgresql.org/docs/ <br />
+
+**_PostgreSQL documentation by postgresql.org_** <br />
+Chapter 8. Data Types by postgresql.org : https://www.postgresql.org/docs/9.5/datatype.html <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
