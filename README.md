@@ -34,6 +34,7 @@ DROP TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-droptable
 DELETE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-delete.html <br />
 SELECT by postgresql.org : https://www.postgresql.org/docs/8.2/sql-select.html <br />
 CREATE TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-createtable.html <br />
+UPDATE TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-update.html <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
