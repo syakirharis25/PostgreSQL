@@ -48,7 +48,7 @@ Mockaroo data generator : https://mockaroo.com <br />
 pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
 keystroke to clear screen in psql? by Stack Overflow : https://stackoverflow.com/questions/26065426/keystroke-to-clear-screen-in-psql <br />
 
-**_PostgreSQL in BioPharm_**
+**_PostgreSQL in BioPharm_** <br />
 American Chemical Society : https://www.acs.org <br />
 BASF Corporation : https://www.basf.com <br />
 Institut de Biologie et Chimie des Protéines : https://www.ibcp.fr <br />
