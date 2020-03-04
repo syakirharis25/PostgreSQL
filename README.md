@@ -4,10 +4,11 @@ My works related to PostgreSQL, an open-source relational database management sy
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [pgAdmin.](#pgadmin)
-4. [Running PostgreSQL on Windows PowerShell.](#windowscommand)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+3. [PostgreSQL industry users.](#industry)
+4. [pgAdmin.](#pgadmin)
+5. [Running PostgreSQL on Windows PowerShell.](#windowscommand)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -47,6 +48,15 @@ Mockaroo data generator : https://mockaroo.com <br />
 **_PostgreSQL questions and answers by Stack Overflow_** <br />
 pgadmin4 : postgresql application server could not be contacted. by Stack Overflow : https://stackoverflow.com/questions/43211296/pgadmin4-postgresql-application-server-could-not-be-contacted
 keystroke to clear screen in psql? by Stack Overflow : https://stackoverflow.com/questions/26065426/keystroke-to-clear-screen-in-psql <br />
+
+**_PostgreSQL related articles_** <br />
+pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
+
+PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
+
+<a name="industry"></a>
+## 3. PostgreSQL industry users.
+Thousands of companies out there have PostgreSQL for countless business critical and non-critical applications. PostgreSQL is not just used in one industry – it is pretty much everywhere. From automotive to water management. From archaeology to weather services. PostgreSQL is everywhere these days and the number of deployment is growing all over the world.
 
 **_PostgreSQL in BioPharm_** <br />
 American Chemical Society : https://www.acs.org <br />
@@ -95,23 +105,18 @@ The United States Department of Labor : https://www.dol.gov <br />
 The General Services Administration : https://www.gsa.gov <br />
 The United States Department of State : https://www.state.gov <br />
 
-**_PostgreSQL related articles_** <br />
-pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
-
-PostgreSQL was created by Michael Stonebraker : https://github.com/mstonebraker <br />
-
 <a name="pgadmin"></a>
-## 3. pgAdmin.
+## 4. pgAdmin.
 pgAdmin is a design and management interface for the PostgreSQL database (open source object-relational database system). It is an open source administration and development platform. For database administrators, pgAdmin provides a graphical interface to all the PostgreSQL features. The program supports multiple versions of the PostgreSQL database.
 
 By Default pgAdmin in Microsoft Windows environment will try to find and use the previous data located in `C:\Users\username\AppData\Roaming\pgAdmin`, if the pgAdmin encounter any problem, try to clear all the data in `C:\Users\username\AppData\Roaming\pgAdmin` and then start again the pgAdmin with administrator access.
 
 <a name="windowscommand"></a>
-## 4. Running PostgreSQL on Windows PowerShell.
+## 5. Running PostgreSQL on Windows PowerShell.
 To run PosgreSQL on Microsoft Windows PowerShell, press **[ ⊞ ]** + **[ X ]**, **[ A ]**, **[ ← ]**, **[ Enter ]**, the Windows PowerShell will appear on your screen, then change into your working directory by using the **cd** command, `cd C:\Users\username\Desktop\PostgreSQL` and press **[ Enter ]**. After that type `psql -U postgres -h localhost` and press **[ Enter ]** on your keyboard. When it ask the question `Password for user postgres:`, just type your password when you first installed the PostgreSQL on your system and then press **[ Enter ]**, this will open the command line version of PostgreSQL on Windows PowerShell.
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/PostgreSQL.git
@@ -121,7 +126,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
