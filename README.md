@@ -5,10 +5,11 @@ My works related to PostgreSQL, an open-source relational database management sy
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [PostgreSQL industry users.](#industry)
-4. [pgAdmin.](#pgadmin)
-5. [Running PostgreSQL on Windows PowerShell.](#windowscommand)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+4. [PostgreSQL open source projects.](#opensource)
+5. [pgAdmin.](#pgadmin)
+6. [Running PostgreSQL on Windows PowerShell.](#windowscommand)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -117,18 +118,27 @@ IMDb : https://www.imdb.com <br />
 Macworld : https://www.macworld.com <br />
 Penny Arcade : https://www.penny-arcade.com/ <br />
 
+<a name="opensource"></a>
+## 4. PostgreSQL open source projects.
+Bricolage : http://bricolagecms.org <br />
+Debian : https://www.debian.org <br />
+GForge : https://gforge.com <br />
+OpenACS : https://openacs.org <br />
+PostGIS : https://postgis.net <br />
+SourceForge : https://sourceforge.net/ <br />
+
 <a name="pgadmin"></a>
-## 4. pgAdmin.
+## 5. pgAdmin.
 pgAdmin is a design and management interface for the PostgreSQL database (open source object-relational database system). It is an open source administration and development platform. For database administrators, pgAdmin provides a graphical interface to all the PostgreSQL features. The program supports multiple versions of the PostgreSQL database.
 
 By Default pgAdmin in Microsoft Windows environment will try to find and use the previous data located in `C:\Users\username\AppData\Roaming\pgAdmin`, if the pgAdmin encounter any problem, try to clear all the data in `C:\Users\username\AppData\Roaming\pgAdmin` and then start again the pgAdmin with administrator access.
 
 <a name="windowscommand"></a>
-## 5. Running PostgreSQL on Windows PowerShell.
+## 6. Running PostgreSQL on Windows PowerShell.
 To run PosgreSQL on Microsoft Windows PowerShell, press **[ ⊞ ]** + **[ X ]**, **[ A ]**, **[ ← ]**, **[ Enter ]**, the Windows PowerShell will appear on your screen, then change into your working directory by using the **cd** command, `cd C:\Users\username\Desktop\PostgreSQL` and press **[ Enter ]**. After that type `psql -U postgres -h localhost` and press **[ Enter ]** on your keyboard. When it ask the question `Password for user postgres:`, just type your password when you first installed the PostgreSQL on your system and then press **[ Enter ]**, this will open the command line version of PostgreSQL on Windows PowerShell.
  
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/PostgreSQL.git
@@ -138,7 +148,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 8. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
