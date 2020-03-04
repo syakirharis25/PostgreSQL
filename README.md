@@ -105,6 +105,18 @@ The United States Department of Labor : https://www.dol.gov <br />
 The General Services Administration : https://www.gsa.gov <br />
 The United States Department of State : https://www.state.gov <br />
 
+**_PostgreSQL in health care_** <br />
+CalorieKing : https://www.calorieking.com <br />
+GNUmed : http://www.gnumed.org <br />
+Shannon Medical Center : https://www.shannonhealth.com <br />
+
+**_PostgreSQL in media_** <br />
+Creative Commons : https://creativecommons.org <br />
+Greenpeace : https://www.greenpeace.org <br />
+IMDb : https://www.imdb.com <br />
+Macworld : https://www.macworld.com <br />
+Penny Arcade : https://www.penny-arcade.com/ <br />
+
 <a name="pgadmin"></a>
 ## 4. pgAdmin.
 pgAdmin is a design and management interface for the PostgreSQL database (open source object-relational database system). It is an open source administration and development platform. For database administrators, pgAdmin provides a graphical interface to all the PostgreSQL features. The program supports multiple versions of the PostgreSQL database.
