@@ -57,6 +57,7 @@ PostgreSQL MAX Function : https://www.postgresqltutorial.com/postgresql-max-func
 PostgreSQL Foreign Key : https://www.postgresqltutorial.com/postgresql-foreign-key/ <br />
 PostgreSQL Joins : https://www.postgresqltutorial.com/postgresql-joins/ <br />
 PostgreSQL NATURAL JOIN Explained By Examples : https://www.postgresqltutorial.com/postgresql-natural-join/ <br />
+PostgreSQL UNION : https://www.postgresqltutorial.com/postgresql-union/ <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
