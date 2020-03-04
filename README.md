@@ -63,6 +63,19 @@ FlightAware : https://flightaware.com <br />
 FlightStats : https://www.flightstats.com <br />
 Whitepages : https://www.whitepages.com <br />
 
+**_PostgreSQL in education_** <br />
+The Berkman Klein Center for Internet & Society at Harvard University : https://cyber.harvard.edu <br />
+Sternberg Astronomical Institute : http://www.sai.msu.su <br />
+The University of Alabama : https://www.ua.edu <br />
+The University of California : https://www.universityofcalifornia.edu/ <br />
+The University of New South Wales : https://www.unsw.edu.au <br />
+The University of Oslo : https://www.uio.no <br />
+The University of Sydney : https://sydney.edu.au <br />
+Western Sydney University : https://www.westernsydney.edu.au/ <br />
+The University of Jyväskylä : https://www.jyu.fi <br />
+Charles University : https://cuni.cz <br />
+Saint Joseph University : https://www.usj.edu.lb <br />
+
 **_PostgreSQL related articles_** <br />
 pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
 
