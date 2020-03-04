@@ -54,6 +54,15 @@ BASF Corporation : https://www.basf.com <br />
 Institut de Biologie et Chimie des Protéines : https://www.ibcp.fr <br />
 Genentech : https://www.gene.com <br />
 
+**_PostgreSQL in e-Commerce_** <br />
+CD Baby : https://cdbaby.com <br />
+Champion : https://www.champion.com <br />
+Endpoint Corporation : https://www.endpoint.com <br />
+Etsy : https://www.etsy.com <br />
+FlightAware : https://flightaware.com <br />
+FlightStats : https://www.flightstats.com <br />
+Whitepages : https://www.whitepages.com <br />
+
 **_PostgreSQL related articles_** <br />
 pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
 
