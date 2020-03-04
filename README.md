@@ -33,6 +33,9 @@ PostgreSQL Core Distribution : https://www.postgresql.org/download/ <br />
 pgAdmin official website : https://www.pgadmin.org <br />
 pgAdmin official documentation : https://www.pgadmin.org/docs <br />
 
+**_PostgreSQL school_** <br />
+PostgreSQL Tutorial : https://www.postgresqltutorial.com <br />
+
 **_PostgreSQL documentation by postgresql.org_** <br />
 Chapter 8. Data Types by postgresql.org : https://www.postgresql.org/docs/9.5/datatype.html <br />
 DROP TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-droptable.html <br />
@@ -44,6 +47,11 @@ UPDATE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-update.html <
 SET by postgresql.org : https://www.postgresql.org/docs/9.1/sql-set.html <br />
 ALTER TABLE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-altertable.html <br />
 TRUNCATE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-truncate.html <br />
+
+**_PostgreSQL documentation by PostgreSQL Tutorial_** <br />
+PostgreSQL SUM Function : https://www.postgresqltutorial.com/postgresql-sum-function/ <br /> 
+PostgreSQL AVG Function : https://www.postgresqltutorial.com/postgresql-avg-function/ <br />
+PostgreSQL COUNT Function : https://www.postgresqltutorial.com/postgresql-count-function/ <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
