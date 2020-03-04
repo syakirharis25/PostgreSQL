@@ -29,6 +29,7 @@ The project continues to make releases available under its free and open-source 
 PostgreSQL official website : https://www.postgresql.org <br />
 PostgreSQL official download page : https://www.postgresql.org/download/ <br />
 PostgreSQL official documentation :https://www.postgresql.org/docs/ <br />
+PostgreSQL Core Distribution : https://www.postgresql.org/download/ <br />
 pgAdmin official website : https://www.pgadmin.org <br />
 
 **_PostgreSQL documentation by postgresql.org_** <br />
