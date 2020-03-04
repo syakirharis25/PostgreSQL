@@ -122,6 +122,11 @@ Penny Arcade : https://www.penny-arcade.com/ <br />
 The Rockport Group : https://www.rockport.com <br />
 
 **_PostgreSQL in technology_** <br />
+Apple : https://www.apple.com/ <br />
+Fujitsu : https://www.fujitsu.com <br />
+Credativ : https://www.credativ.com <br />
+Red Hat : https://www.redhat.com <br />
+Sun Microsystems : https://www.oracle.com/sun <br />
 
 <a name="opensource"></a>
 ## 4. PostgreSQL open source projects.
