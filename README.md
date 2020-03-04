@@ -58,6 +58,7 @@ PostgreSQL Foreign Key : https://www.postgresqltutorial.com/postgresql-foreign-k
 PostgreSQL Joins : https://www.postgresqltutorial.com/postgresql-joins/ <br />
 PostgreSQL NATURAL JOIN Explained By Examples : https://www.postgresqltutorial.com/postgresql-natural-join/ <br />
 PostgreSQL UNION : https://www.postgresqltutorial.com/postgresql-union/ <br />
+PL/pgSQL Loop Statements : https://www.postgresqltutorial.com/plpgsql-loop-statements <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
