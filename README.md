@@ -122,11 +122,19 @@ Penny Arcade : https://www.penny-arcade.com/ <br />
 The Rockport Group : https://www.rockport.com <br />
 
 **_PostgreSQL in technology_** <br />
-Apple : https://www.apple.com/ <br />
+Apple : https://www.apple.com <br />
 Fujitsu : https://www.fujitsu.com <br />
 Credativ : https://www.credativ.com <br />
 Red Hat : https://www.redhat.com <br />
 Sun Microsystems : https://www.oracle.com/sun <br />
+
+**_PostgreSQL in technology_** <br />
+Cisco : https://www.cisco.com <br />
+Juniper Networks : https://www.juniper.net <br />
+NTT DATA Corporation : https://www.nttdata.com <br />
+Singtel Optus Pty : https://www.optus.com.au/ <br />
+Skype : https://www.skype.com <br />
+Telstra : https://www.telstra.com.au <br />
 
 <a name="opensource"></a>
 ## 4. PostgreSQL open source projects.
