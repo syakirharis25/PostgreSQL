@@ -1,0 +1,19 @@
+# create a procedure to print fibonacci number upto a limit, limit is passed as an argument.
+
+create or replace function fibonacci(num integer) returns setof numeric as $$
+declare
+fib1 numeric:=0;
+fib2 numeric:=1;
+begin
+if(num<=0)
+then return;
+end if;
+return next fib1;
+loop
+exit when num<=1;
+return next fib2;
+num=num-1;
+select fib2, fib1+fib2 into fib1, fib2;
+end loop;
+end;
+$$ language plpgsql;
