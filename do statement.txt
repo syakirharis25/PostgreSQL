@@ -1,0 +1,15 @@
+do
+'declare
+r integer;
+area numeric(5,2);
+pi constant float:=3.14;
+begin
+create table area(r integer, area numeric(5,2));
+r:=3;
+while(r<=7)
+loop
+area:=pi*power(r,2);
+insert into area values(r,area);
+r:=r+1;
+end loop;
+end';
