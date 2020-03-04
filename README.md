@@ -31,6 +31,7 @@ PostgreSQL official download page : https://www.postgresql.org/download/ <br />
 PostgreSQL official documentation :https://www.postgresql.org/docs/ <br />
 PostgreSQL Core Distribution : https://www.postgresql.org/download/ <br />
 pgAdmin official website : https://www.pgadmin.org <br />
+pgAdmin official documentation : https://www.pgadmin.org/docs <br />
 
 **_PostgreSQL documentation by postgresql.org_** <br />
 Chapter 8. Data Types by postgresql.org : https://www.postgresql.org/docs/9.5/datatype.html <br />
