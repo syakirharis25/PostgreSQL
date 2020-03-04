@@ -40,6 +40,8 @@ DELETE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-delete.html <
 SELECT by postgresql.org : https://www.postgresql.org/docs/8.2/sql-select.html <br />
 CREATE TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-createtable.html <br />
 UPDATE TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-update.html <br />
+UPDATE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-update.html <br />
+SET by postgresql.org : https://www.postgresql.org/docs/9.1/sql-set.html <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
