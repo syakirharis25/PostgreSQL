@@ -53,6 +53,7 @@ PostgreSQL SUM Function : https://www.postgresqltutorial.com/postgresql-sum-func
 PostgreSQL AVG Function : https://www.postgresqltutorial.com/postgresql-avg-function/ <br />
 PostgreSQL COUNT Function : https://www.postgresqltutorial.com/postgresql-count-function/ <br />
 PostgreSQL MIN Function : https://www.postgresqltutorial.com/postgresql-min-function/ <br />
+PostgreSQL MAX Function : https://www.postgresqltutorial.com/postgresql-max-function/ <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
