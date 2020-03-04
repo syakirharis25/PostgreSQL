@@ -76,6 +76,11 @@ The University of Jyväskylä : https://www.jyu.fi <br />
 Charles University : https://cuni.cz <br />
 Saint Joseph University : https://www.usj.edu.lb <br />
 
+**_PostgreSQL in finance_** <br />
+Journyx : https://journyx.com <br />
+TrustCommerce : https://www.trustcommerce.com <br />
+MobyGames : https://www.mobygames.com <br />
+
 **_PostgreSQL related articles_** <br />
 pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
 
