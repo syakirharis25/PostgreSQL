@@ -54,6 +54,7 @@ PostgreSQL AVG Function : https://www.postgresqltutorial.com/postgresql-avg-func
 PostgreSQL COUNT Function : https://www.postgresqltutorial.com/postgresql-count-function/ <br />
 PostgreSQL MIN Function : https://www.postgresqltutorial.com/postgresql-min-function/ <br />
 PostgreSQL MAX Function : https://www.postgresqltutorial.com/postgresql-max-function/ <br />
+PostgreSQL Foreign Key : https://www.postgresqltutorial.com/postgresql-foreign-key/ <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
