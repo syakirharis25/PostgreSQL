@@ -79,7 +79,21 @@ Saint Joseph University : https://www.usj.edu.lb <br />
 **_PostgreSQL in finance_** <br />
 Journyx : https://journyx.com <br />
 TrustCommerce : https://www.trustcommerce.com <br />
+
+**_PostgreSQL in gaming_** <br />
 MobyGames : https://www.mobygames.com <br />
+
+**_PostgreSQL in government_** <br />
+Garden Grove : https://ggcity.org <br />
+National Physical Laboratory of India : http://www.nplindia.in <br />
+The National Weather Service : https://www.weather.gov <br />
+Registre Français des émissions polluantes : https://www.data.gouv.fr/fr/datasets/registre-francais-des-emissions-polluantes/ <br />
+The United Nations Children's Fund (UNICEF) : https://www.unicef.org <br />
+The United States Agency for International Development : https://www.usaid.gov <br />
+The Centers for Disease Control and Prevention (CDC) : https://www.cdc.gov <br />
+The United States Department of Labor : https://www.dol.gov <br />
+The General Services Administration : https://www.gsa.gov <br />
+The United States Department of State : https://www.state.gov <br />
 
 **_PostgreSQL related articles_** <br />
 pgAdmin by DataOne : https://www.dataone.org/software-tools/pgadmin <br />
