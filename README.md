@@ -118,6 +118,11 @@ IMDb : https://www.imdb.com <br />
 Macworld : https://www.macworld.com <br />
 Penny Arcade : https://www.penny-arcade.com/ <br />
 
+**_PostgreSQL in retail_** <br />
+The Rockport Group : https://www.rockport.com <br />
+
+**_PostgreSQL in technology_** <br />
+
 <a name="opensource"></a>
 ## 4. PostgreSQL open source projects.
 Bricolage : http://bricolagecms.org <br />
