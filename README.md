@@ -43,6 +43,7 @@ UPDATE TABLE by postgresql.org : https://www.postgresql.org/docs/8.2/sql-update.
 UPDATE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-update.html <br />
 SET by postgresql.org : https://www.postgresql.org/docs/9.1/sql-set.html <br />
 ALTER TABLE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-altertable.html <br />
+TRUNCATE by postgresql.org : https://www.postgresql.org/docs/9.1/sql-truncate.html <br />
 
 **_PostgreSQL questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
